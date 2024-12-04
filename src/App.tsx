@@ -1,4 +1,3 @@
-import React from 'react';
 import ContractForm from './components/ContractForm';
 
 function App() {
