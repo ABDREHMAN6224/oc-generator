@@ -1,5 +1,6 @@
 import React from 'react';
-import { ContractData, generateLatexCode } from '../utils/contractTemplate';
+import { ContractData } from '../types/contract';  
+import {  generateLatexCode } from '../utils/contractTemplate';
 
 interface Props {
   data: ContractData;
